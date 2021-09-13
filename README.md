@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I play guitar and sing alone very often.**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools:                         
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -70,6 +70,7 @@
 
 
 </p>
+<p></P>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
