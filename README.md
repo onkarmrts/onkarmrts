@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **onkarmrts@gmail.com**
 
-- ⚡ Fun fact **I make videos In free time realted to tech, Freelance & Engineering..**
+- ⚡ Fun fact **I make videos In free time related to tech, Freelance & Engineering..**
 
 ## 🚀 Languages and Tools:                         
 
