@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **onkarmrts@gmail.com**
 
-- ⚡ Fun fact **I play guitar and sing alone very often.**
+- ⚡ Fun fact **I make videos In free time realted to tech, Freelance & Engineering..**
 
 ## 🚀 Languages and Tools:                         
 
