@@ -6,13 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Freelancer.com as a Freelancer](/)**
+- 🔭 I’m currently working for **[ My own community CollegeRanker](/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](http://onkarm.rf.gd/?i=1)**
+- 💻 I’m looking to collaborate on **Development Projects**
 
 - 📫 How to reach me **onkarmrts@gmail.com**
 
