@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working for **[ My own community CollegeRanker](/)**
+- 🔭 I’m currently working for **[ My own community CollegeRanker](https://collegeranker.in/)**
 
 - 💻 I’m looking to collaborate on **Development Projects**
 
